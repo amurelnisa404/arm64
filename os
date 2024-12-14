@@ -28,7 +28,7 @@ pip install time
 pip install requests
 pip install subprocess
 pip install psutil 
-
+clear
 $e   "${u}=========================="
 $e    "${u}=${k}[01]${h}. ubuntu desktop   ="
 $e    "${u}=${k}[02]${h}. termux desktop   ="
